@@ -1,0 +1,15 @@
+{
+  "name": "html5-base",
+  "version": "1.0.0",
+  "description": "basic skeleton project using npm, grunt, requirejs",
+  "author": "J. Russell Smyth",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-jsonlint": "^1.1.2",
+    "jshint": "^2.9.2"
+  },
+  "dependencies": {
+    "whatwg-fetch": "^0.6.0"
+  }
+}
