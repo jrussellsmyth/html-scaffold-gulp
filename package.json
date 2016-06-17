@@ -4,7 +4,9 @@
   "description": "basic skeleton project using npm, grunt, requirejs",
   "author": "J. Russell Smyth",
   "devDependencies": {
+    "del": "^2.2.0",
     "gulp": "^3.9.1",
+    "gulp-express": "^0.3.5",
     "gulp-jshint": "^2.0.1",
     "gulp-jsonlint": "^1.1.2",
     "jshint": "^2.9.2"
