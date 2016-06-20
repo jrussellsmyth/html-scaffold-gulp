@@ -9,6 +9,7 @@
     "gulp-express": "^0.3.5",
     "gulp-jshint": "^2.0.1",
     "gulp-jsonlint": "^1.1.2",
+    "gulp-live-server": "0.0.30",
     "jshint": "^2.9.2"
   },
   "dependencies": {
